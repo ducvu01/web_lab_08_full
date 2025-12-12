@@ -45,4 +45,4 @@ See `screenshots/` folder for test results.
 
 
 ## Time Spent
-Approximately [X] hours
+Approximately 4 hours
